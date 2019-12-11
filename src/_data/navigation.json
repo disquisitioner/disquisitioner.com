@@ -8,11 +8,19 @@
     {
       "text": "GitHub",
       "url": "https://github.com/disquisitioner/disquisitioner.com",
+      "rel": "me",
       "external": true
     },
     {
       "text": "Twitter",
       "url": "https://twitter.com/disquisitioner",
+      "rel": "me",
+      "external": true
+    },
+    {
+      "text": "Email",
+      "url": "mailto:david@disquisitioner.com",
+      "rel": "me",
       "external": true
     }
   ]

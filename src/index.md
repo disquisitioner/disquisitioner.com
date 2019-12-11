@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome to My Web Site
+title: Welcome!
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
