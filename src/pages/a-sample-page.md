@@ -1,5 +1,6 @@
 ---
 title: A page, not a post
+tags: page
 ---
 Elsewhere here you'll find posts, which are blog-style dated entries that most often reflect something happening at that particular moment.  This is a page, which is a more enduring bit of content apart from the post-oriented timeline.
 
