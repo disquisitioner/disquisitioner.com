@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome!
+pagesHeading: Articles & Applications
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
