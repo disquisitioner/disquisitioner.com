@@ -1,5 +1,5 @@
 ---
-layout: 'layouts/base.njk'
+layout: 'layouts/page.njk'
 title: Dis•qui•si•tion•er (dĭs″kwĭ-zĭsh′ən ɚ)
 ---
 According to Chambers 20th Century Dictionary (my favorite, by the way) "disquisition" means "a careful enquiry into any matter by arguments, etc: an essay".  I expect it's not a word you've come across, though I'm sure you're familiar with its opposite "inquisition".  Interesting that "inquisition" is so much more common but perhaps that's because it often has a negative if not infamous connotation, as in 'The Spanish Inquisition'.  I'd like to think "disquisition" is the quieter, always helpful but unsung alternative.  Enlightening and exploring through thoughtful enquiry.
