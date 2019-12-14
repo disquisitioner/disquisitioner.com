@@ -1,5 +1,5 @@
 ---
-layout: pageindex
+layout: 'layouts/pageindex.njk'
 title: Some Pages!
 pagesHeading: Articles & Applications
 ---
