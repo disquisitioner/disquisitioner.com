@@ -6,10 +6,9 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/disquisitioner/disquisitioner.com",
-      "rel": "me",
-      "external": true
+      "text": "Articles",
+      "url": "/pageindex/",
+      "external": false
     },
     {
       "text": "Twitter",
