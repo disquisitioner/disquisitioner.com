@@ -1,0 +1,15 @@
+{% extends 'layouts/base.njk' %}
+{% set pageType = 'General' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}
+  {{ content | safe }}
+{% endset %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    {% include "partials/components/page-list.njk" %}
+  </main>
+{% endblock %}
