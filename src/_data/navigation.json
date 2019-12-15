@@ -11,16 +11,15 @@
       "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/disquisitioner",
-      "rel": "me",
-      "external": true
-    },
-    {
       "text": "Email",
       "url": "mailto:david@disquisitioner.com",
       "rel": "me",
       "external": true
-    }
+    },
+    {
+      "text": "About",
+      "url": "/about/",
+      "external": false
+    },
   ]
 }

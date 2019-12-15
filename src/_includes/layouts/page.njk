@@ -3,6 +3,9 @@
 
 {# Intro content #}
 {% set introHeading = title %}
+{% if subtitle %}
+	% set introSummary = subtitle %}
+{%endif %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
