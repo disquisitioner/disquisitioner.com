@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Welcome!
-pagesHeading: Articles & Applications
+subtitle: And so you find yourself at disquisitioner.com
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-And so you find yourself at disquisitioner.com.
+This here is the home page.  Glad you found it.
