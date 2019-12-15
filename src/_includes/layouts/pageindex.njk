@@ -3,13 +3,16 @@
 
 {# Intro content #}
 {% set introHeading = title %}
-{% set introSummary %}
-  {{ content | safe }}
+{% if subtitle %}
+	{% set introSummary = subtitle %}
+{%endif %}
+
 {% endset %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
     {% include "partials/components/intro.njk" %}
+    {{ content | safe }}
     {% include "partials/components/page-list.njk" %}
   </main>
 {% endblock %}
