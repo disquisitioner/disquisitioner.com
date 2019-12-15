@@ -9,13 +9,13 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
     <article class="[ post ] [ h-entry ]">
-      {% include "partials/components/intro.njk" %}
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
         {{ content | safe }}
       </div>
-      {% include "partials/components/page-list.njk" %}
     </article>
+    {% include "partials/components/page-list.njk" %} 
   </main>
 {% endblock %}
 
